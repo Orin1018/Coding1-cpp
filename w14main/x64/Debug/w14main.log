@@ -1,0 +1,39 @@
+﻿  w14main.cpp
+C:\Users\Orinc\source\repos\w14main\w14main\filemgmt.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'w14main.cpp')
+  
+C:\Users\Orinc\source\repos\w14main\w14main\item.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'w14main.cpp')
+  
+C:\Users\Orinc\source\repos\w14main\w14main\item.cpp(11,1): error C2653: 'item': is not a class or namespace name
+  (compiling source file 'w14main.cpp')
+  
+C:\Users\Orinc\source\repos\w14main\w14main\item.cpp(11,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'w14main.cpp')
+  
+C:\Users\Orinc\source\repos\w14main\w14main\item.cpp(17,1): warning C4508: 'item': function should return a value; 'void' return type assumed
+  (compiling source file 'w14main.cpp')
+  
+C:\Users\Orinc\source\repos\w14main\w14main\item.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'w14main.cpp')
+  
+C:\Users\Orinc\source\repos\w14main\w14main\item.cpp(9,6): error C2011: 'location': 'enum' type redefinition
+  (compiling source file 'w14main.cpp')
+      C:\Users\Orinc\source\repos\w14main\w14main\item.cpp(9,6):
+      see declaration of 'location'
+  
+C:\Users\Orinc\source\repos\w14main\w14main\w14main.cpp(40,10): error C2146: syntax error: missing ';' before identifier 'item1'
+C:\Users\Orinc\source\repos\w14main\w14main\w14main.cpp(40,5): warning C4551: function call missing argument list
+C:\Users\Orinc\source\repos\w14main\w14main\w14main.cpp(40,10): error C3861: 'item1': identifier not found
+C:\Users\Orinc\source\repos\w14main\w14main\w14main.cpp(41,10): error C2146: syntax error: missing ';' before identifier 'item2'
+C:\Users\Orinc\source\repos\w14main\w14main\w14main.cpp(41,5): warning C4551: function call missing argument list
+C:\Users\Orinc\source\repos\w14main\w14main\w14main.cpp(41,10): error C3861: 'item2': identifier not found
+C:\Users\Orinc\source\repos\w14main\w14main\w14main.cpp(42,10): error C2146: syntax error: missing ';' before identifier 'item3'
+C:\Users\Orinc\source\repos\w14main\w14main\w14main.cpp(42,5): warning C4551: function call missing argument list
+C:\Users\Orinc\source\repos\w14main\w14main\w14main.cpp(42,10): error C3861: 'item3': identifier not found
+C:\Users\Orinc\source\repos\w14main\w14main\w14main.cpp(43,10): error C2146: syntax error: missing ';' before identifier 'item4'
+C:\Users\Orinc\source\repos\w14main\w14main\w14main.cpp(43,5): warning C4551: function call missing argument list
+C:\Users\Orinc\source\repos\w14main\w14main\w14main.cpp(43,10): error C3861: 'item4': identifier not found
+C:\Users\Orinc\source\repos\w14main\w14main\w14main.cpp(44,10): error C2146: syntax error: missing ';' before identifier 'item5'
+C:\Users\Orinc\source\repos\w14main\w14main\w14main.cpp(44,5): warning C4551: function call missing argument list
+C:\Users\Orinc\source\repos\w14main\w14main\w14main.cpp(44,10): error C3861: 'item5': identifier not found
